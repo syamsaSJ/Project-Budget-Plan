@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1642140293 source:c:\hp\program\programbudgetplan\main.cpp
+	<iostream>
+	"penghubung.h"
+
+1642138102 c:\hp\program\programbudgetplan\penghubung.h
+
+1642149556 source:c:\hp\program\programbudgetplan\kategoridantotal.cpp
+	<iostream>
+	"penghubung.h"
+
+1642149613 source:c:\hp\program\programbudgetplan\menu.cpp
+	<iostream>
+	"penghubung.h"
+
+1642150089 source:c:\hp\daring\program\programbudgetplan\kategoridantotal.cpp
+	<iostream>
+	"penghubung.h"
+
+1642138102 c:\hp\daring\program\programbudgetplan\penghubung.h
+
+1642140293 source:c:\hp\daring\program\programbudgetplan\main.cpp
+	<iostream>
+	"penghubung.h"
+
+1642149613 source:c:\hp\daring\program\programbudgetplan\menu.cpp
+	<iostream>
+	"penghubung.h"
+
